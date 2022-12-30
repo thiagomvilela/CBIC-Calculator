@@ -2,8 +2,7 @@
 # Curso: Análise e Desenvolvimento de Sistemas
 # Disciplina: Introdução à Programação
 # Docente: Rodrigo Cesar Lira da Silva
-# Discente: Thiago da Mota Vilela (20211ADSPL0140)
-# E-mail: tmv@discente.ifpe.edu.br
+# Discente: Thiago Vilela
 # Avaliação da 2ª Unidade - Data: 28 de julho de 2021
 
 # Projeto: Calculadora do Custo Unitário Básico de Construção (CUB).
