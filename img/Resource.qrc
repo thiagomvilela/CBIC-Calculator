@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="img">
+    <file>ifpe.png</file>
+    <file>background.png</file>
+    <file>calculadora.png</file>
+    <file>cbic.png</file>
+    <file>custo.png</file>
+    <file>logomarca.png</file>
+    <file>metro.png</file>
+    <file>projeto.png</file>
+  </qresource>
+</RCC>
