@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="IFPE" src="./img/banner.png" />
+  <img alt="Banner CBIC" src="./img/banner-cbic.png" />
 </h1>
 
 
