@@ -6,7 +6,7 @@
 <h1 align="center">Calculator of the basic unit cost of civil construction.</h1>
 
 ## Project description
-The project is a calculator for the civil construction sector, developed for the introductory programming course at the Federal Institute of Pernambuco (IFPE) and TMV Architecture company.
+The project is a calculator for the civil construction sector, developed for 2nd unit the introductory programming course at the Federal Institute of Pernambuco (IFPE) and TMV Architecture company.
 
 CUB (Basic Unit Cost) is a monetary indicator that shows the basic cost for construction. Its objective is to discipline the real estate development market, serving as a parameter in determining the costs of the civil construction sector.
 
